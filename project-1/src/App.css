@@ -40,3 +40,32 @@
 .read-the-docs {
   color: #888;
 }
+
+header{
+  background: linear-gradient(to bottom, #ff7e5f, #feb47b);
+  display: block;
+  height:100px;
+  width: 100vw;
+  
+}
+.box{
+margin-top: 5px;
+background-color: #feb47b;
+padding: 5px;
+height: 200px;
+width: 200px;
+align-items: center;
+}
+footer{
+  align-items: center;
+  background-color: #ff7e5f;
+  height:100px;
+  width: 100vw;
+}
+
+
+
+button{
+  background-color: #feb47b;
+  margin: 10px;
+}
